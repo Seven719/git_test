@@ -1,1 +1,2 @@
 I just need to add some text
+Don't mind me I'm just testing something I saw about nvim
